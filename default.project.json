@@ -1,0 +1,25 @@
+{
+  "name": "Hackathon",
+  "tree": {
+    "$className": "DataModel",
+
+    "ServerScriptService": {
+        "$path": "src/server"
+    },
+
+    "StarterGui": {
+      "ScriptsMainPage": {
+          "$path": "src/ScriptsMainPage"
+      },
+      "ScriptsFindPage": {
+         "$path": "src/ScriptsFindPage"
+      },
+      "ScriptsAddPage": {
+          "$path": "src/ScriptsAddPage"
+      },
+      "ScriptsRequestPage": {
+          "$path": "src/ScriptsRequestPage"
+      }
+    }
+  }
+}
